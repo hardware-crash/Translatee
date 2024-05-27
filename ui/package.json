@@ -8,7 +8,7 @@
   },
   "author": "Lukas Greifeneder",
   "contributors": [
-    {"name":"Lukas Greifender","url":"https://github.com/hardware-crash"}
+    {"name":"Lukas Greifeneder","url":"https://github.com/hardware-crash"}
   ],
   "license": "MIT",
   "devDependencies": {

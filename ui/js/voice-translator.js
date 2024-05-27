@@ -13,7 +13,7 @@ recognition.interimResults = false;
 let requestId;
 
 let sourceLanguage = 'de';
-let sourceDialect = 'IN';
+let sourceDialect = 'AT';
 let targetLanguage = 'en';
 
 $(document).ready(() => {

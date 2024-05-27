@@ -3,11 +3,12 @@ body {
 }
 
 h1.title {
-	text-align: left;
+	text-align: center;
 	padding-left: 0.2em;
 }
 
 div.app {
+	width: 100%;
 	max-width: 500px;
 	text-align: center;
 }
@@ -18,14 +19,30 @@ div.app {
 	color:#80797C;
 }
 
+.card-image {
+	margin-bottom: 40px;
+}
 
 .clickableimage:hover {
     cursor: pointer;
 }
 
-.select-wrapper {
-    margin: 20px;
+.material-icons{
+	color: #004aad;
 }
+
+.select-wrapper {
+    margin: 10px 20px 0 20px;
+}
+
+.input-field label {
+	width: 100%;
+	text-align: center !important;
+	color: #000;
+	padding-bottom: 5px;
+	left:0 !important; 
+  }
+
 .dropdown-content li > a,
 .dropdown-content li > span {
     color: #004aad !important;  
@@ -40,6 +57,7 @@ span#processing {
 	display: none;
 }
 
-.row .col.s12{
-	/* padding: 0 !important; */
-}
+.card.center{
+	border-radius: 10px !important; /* Rounded corners for the container */
+	overflow: hidden; /* Ensures the content respects the rounded corners */
+  }
