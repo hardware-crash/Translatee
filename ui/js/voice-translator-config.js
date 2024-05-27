@@ -1,4 +1,4 @@
-var bucketName = "s2s-translator-voicetranslatorbucket-rpxrgewmib7i";
-var IdentityPoolId = "us-east-1:de18e075-f7a1-46ea-b879-2aaae63a7d23";
-var lambdaFunction = "s2s-translator-VoiceTranslatorLambda-ZEknhLfjKs2g";
+var bucketName = "s2s-translator-voicetranslatorbucket-nx5bktff8caa";
+var IdentityPoolId = "us-east-1:0a077ed2-9e18-4230-8814-fba48b4d4ec4";
+var lambdaFunction = "s2s-translator-VoiceTranslatorLambda-ZhPpn5PQcMG1";
 var awsRegion = "us-east-1";
