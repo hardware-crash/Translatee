@@ -1,0 +1,10 @@
+com/voicetranslator/app/transcribestreaming/ByteToAudioEventSubscription.class
+com/voicetranslator/app/transcribestreaming/StreamTranscriptionBehavior.class
+com/voicetranslator/app/Input.class
+com/voicetranslator/app/transcribestreaming/TranscribeStreamingClientWrapper$1.class
+com/voicetranslator/app/transcribestreaming/TranscribeStreamingSynchronousClient.class
+com/voicetranslator/app/transcribestreaming/TranscribeStreamingClientWrapper.class
+com/voicetranslator/app/transcribestreaming/TranscribeStreamingRetryClient.class
+com/voicetranslator/app/transcribestreaming/AudioStreamPublisher.class
+com/voicetranslator/app/LambdaHandler.class
+com/voicetranslator/app/transcribestreaming/TranscribeStreamingClientWrapper$AudioStreamPublisher.class
